@@ -1,0 +1,10 @@
+.list1{
+    display: flex;
+    list-style: none;
+    color:blue
+}
+.list1 li{
+    cursor: pointer;
+    padding: 10px;
+    border: 2px solid rgb(20, 19, 19);
+}
